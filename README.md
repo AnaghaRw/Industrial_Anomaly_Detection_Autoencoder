@@ -1,4 +1,4 @@
-# 🔧 Industrial Equipment Anomaly Detection using Deep Autoencoders
+# Industrial Equipment Anomaly Detection using Deep Autoencoders
 
 This project implements deep learning–based anomaly detection for visual inspection of industrial components (such as screws, metal nuts, and cables).  
 The system uses **Convolutional Autoencoders (CAEs)** to learn normal visual patterns and detect anomalies via reconstruction error.
